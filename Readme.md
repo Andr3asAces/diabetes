@@ -12,6 +12,7 @@ Project for the IBM course Deep learning and Reinforcement learning:
 
 * UCI ML Repositiory (http://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes)
 
+The Pima Indians Diabetes dataset is a popular dataset used for binary classification tasks in machine learning. It contains 768 samples of Pima Indian women aged 21 years and older, with eight medical predictor variables and a target variable indicating the development of diabetes within five years.
 
 ### Attributes: (all numeric-valued)
    1. Number of times pregnant
