@@ -26,3 +26,4 @@ Project for the IBM course Deep learning and Reinforcement learning:
  
 ![diabetes](https://user-images.githubusercontent.com/83903964/236078943-81c44981-8fd4-4e0b-92e2-751fc260e219.png)
  
+Note: As of recent you the link might not work due to permission restrictions
